@@ -1,0 +1,7 @@
+export const types = Object.freeze({
+    START_FETCHING: "START_FETCHING",
+    STOP_FETCHING: "STOP_FETCHING",
+    TOKEN_FILL: "TOKEN_FILL",
+    USER_FILL: "USER_FILL",
+    TASKS_FILL: "TASKS_FILL",
+})
